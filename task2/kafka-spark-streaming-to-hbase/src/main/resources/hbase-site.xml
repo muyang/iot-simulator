@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <property>
+        <name>hbase.rootdir</name>
+        <value>/usr/bin/hbase</value>
+    </property>
+    <property>
+        <name>hbase.zookeeper.quorum</name>
+        <value>quickstart.cloudera</value>
+    </property>
+    <property>
+        <name>hbase.zookeeper.property.dataDir</name>
+        <value>/opt/zookeeper</value>
+    </property>
+</configuration>
