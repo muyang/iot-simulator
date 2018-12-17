@@ -1,0 +1,4 @@
+/home/cloudera/eclipse-workspace/iot-simulator/iot-kafka-producer/src/main/java/com/iot/app/kafka/util/IoTDataEncoder.java
+/home/cloudera/eclipse-workspace/iot-simulator/iot-kafka-producer/src/main/java/com/iot/app/kafka/vo/IoTData.java
+/home/cloudera/eclipse-workspace/iot-simulator/iot-kafka-producer/src/main/java/com/iot/app/kafka/util/PropertyFileReader.java
+/home/cloudera/eclipse-workspace/iot-simulator/iot-kafka-producer/src/main/java/com/iot/app/kafka/producer/IoTDataProducer.java
